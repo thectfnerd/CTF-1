@@ -1,1 +1,0 @@
-well while studying for Cryptography I came to know about the most *secure* algo and couldn't stop thinking about it...and then I wrote the 128 lines on that. Initially there was a "MISUNDERSTANDING" but man i lost the key because i accidentally deleted it, but i did used "UTF-8" rather than the traditional one.
